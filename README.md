@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hello, I'm Marvin!
 
-<!--
-**AtowMarvin/AtowMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Designer | Game Development 
 
-Here are some ideas to get you started:
+I'm currently a student at Designschule Schwerin, 
+studying Game Design.I'm always eager to learn, 
+take on new challenges, and contribute to creative and innovative ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Languages
+
+
+### Get in Touch
+
+Email: marvinoex@gmail.com
+
+linkedin: https://www.linkedin.com/in/marvin-oex-9b932a364/
+
+Itch.io: [https://marvin06.itch.io/](https://marvin06.itch.io/)
