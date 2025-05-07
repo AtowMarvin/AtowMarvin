@@ -12,9 +12,12 @@ English
 Danish
 C#
 
--Unity 
+-Unity
+
 -Rider
+
 -Photoshop
+
 -Miro
 
 ### Get in Touch
