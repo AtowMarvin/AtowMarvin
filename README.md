@@ -7,7 +7,15 @@ studying Game Design.I'm always eager to learn,
 take on new challenges, and contribute to creative and innovative ideas.
 
 ### Tools & Languages
+German
+English
+Danish
+C#
 
+-Unity 
+-Rider
+-Photoshop
+-Miro
 
 ### Get in Touch
 
