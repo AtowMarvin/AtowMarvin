@@ -35,13 +35,9 @@ C#
 ### Connect with me:
 
 Email: marvinoex@gmail.com
-
- <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 
  
 linkedin: https://www.linkedin.com/in/marvin-oex-9b932a364/
 
- <img alt="Portfolio" src="https://img.shields.io/badge/%20Portfolio%20-CD14BC" /> 
-
-Portfolio:
+Portfolio: https://marvinoex.myportfolio.com 
 
 Itch.io: [https://marvin06.itch.io/](https://marvin06.itch.io/)
